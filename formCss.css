@@ -1,0 +1,40 @@
+*{
+    background-color: yellow;
+    margin: 10px;
+}
+
+h1{
+    color: red;
+}
+
+form{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    background-color:white;
+}
+
+p{
+    display: flex;
+    flex-direction: row;
+}
+
+h3{
+    display: inline;
+}
+
+select{
+    background: white;
+}
+
+textarea{
+    background:white;
+}
+
+.sb{
+    background:transparent;
+}
